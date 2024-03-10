@@ -1,4 +1,4 @@
-# Gereksinimler
+# Gereksinimler (Hepsi Umut Yenidil'e ait)
 1. Giris yapma
 2. Kayit olma
 3. Cikis yapma
