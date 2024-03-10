@@ -1,16 +1,17 @@
-# nonflash
+# Yazilim Muhendisligi 2024 - Bahar
+# Proje Adi: nonflash
+Proje tanimi: Kullanicilarin birbirleriyle etkilesime girebildigi, fotograf icerikleri paylasabildikleri ve ilgi alanlarina uyan kisileri takip edebildikleri sosyal medya-stok fotograf deposu amaclarini tasiyan bir mobil uygulama.
+Proje Kategorisi: Mobil-fotografcilik
+Referans Uygulama: Unsplash Mobil Uygulamasi
+Grup Adi: h0pey
+Proje ekibi: Umut Yenidil
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Proje Plani
+2. Gereksinim Analizi
+3. Durum Diyagrami
+4. Durum Senaryolari
+5. Veritabani Diyagrami
+6. Frontend
+7. Backend
+8. Test
+9. Gelistirici ve Kullanici dokumanlari
