@@ -6,8 +6,8 @@ Referans Uygulama: Unsplash Mobil Uygulamasi
 Grup Adi: h0pey
 Proje ekibi: Umut Yenidil
 
-1. Proje Plani
-2. Gereksinim Analizi
+1. [Proje Plani](https://github.com/umutyenidil/nonflash/blob/master/ProjePlani.md)
+2. [Gereksinim Analizi](https://github.com/umutyenidil/nonflash/blob/master/GereksinimAnalizi.md)
 3. Durum Diyagrami
 4. Durum Senaryolari
 5. Veritabani Diyagrami
